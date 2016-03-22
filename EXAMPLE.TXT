@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<body id="0" subject="География Российской Федерации" size="25" password="MjIyMg==">
+	<section name="Раздел 1" percent="50" price="1" id="1">
+		<question condition="true" id="1.1" question="0ZLRs9Gv0azRqdG30aFR0ZHRr9Gy0bLRqdGq0bLRq9Gv0apR0ZXRptGl0abRsdGh0bfRqdGpaw==">
+			<answer id="1.1.1" type="false">0YzRr9Gu0aXRr9Gu</answer>
+			<answer id="1.1.2" type="true">0Y3Rr9Gy0avRo9Gh</answer>
+			<answer id="1.1.3" type="false">0ZDRodGx0anRpw==</answer>
+			<answer id="1.1.4" type="false">0YLRptGx0azRqdGu</answer>
+			<answer id="1.1.5" type="false">0YPRodG50anRrtGk0bPRr9Gu</answer>
+			<questionsize>5</questionsize>
+		</question>
+		<question condition="true" id="1.2" question="0ZfRo9Gm0bPRoVHRtdGs0aHRpNGhUdGR0a/RstGy0anRqtGy0avRr9GqUdGV0abRpdGm0bHRodG30anRqQ==">
+			<answer id="1.2.1" type="true">0aLRptGs0bzRqg==</answer>
+			<answer id="1.2.2" type="true">0avRsdGh0bLRrtG80ao=</answer>
+			<answer id="1.2.3" type="false">0bjRptGx0a7RvNGq</answer>
+			<answer id="1.2.4" type="true">0bLRqdGu0anRqg==</answer>
+			<answer id="1.2.5" type="false">0afRptGs0bPRvNGq</answer>
+			<questionsize>5</questionsize>
+		</question>
+		<sectionsize>2</sectionsize>
+	</section>
+	<section name="Раздел 2" percent="50" price="2" id="2">
+		<question condition="true" id="2.1" question="0ZXRrNGh0aRR0avRodGr0a/RqlHRstGz0bHRodGu0bxR0anRqNGv0aLRsdGh0afRptGuUdGu0aFR0bHRqdGy0bTRrtGr0aZwV8KjwqbCpF7Cl1/Cm8Khwpg=">
+			<answer id="2.1.1" type="true">0ZHRr9Gy0bLRqdGq0bLRq9Gv0apR0ZXRptGl0abRsdGh0bfRqdGp</answer>
+			<answer id="2.1.2" type="false">0ZXRptGl0abRsdGh0bPRqdGj0a7Rr9GqUdGR0abRstGw0bTRotGs0anRq9GpUdGE0abRsdGt0aHRrtGp0ak=</answer>
+			<answer id="2.1.3" type="false">0ZLRr9Gm0aXRqdGu0abRrtGu0bzRtlHRmdGz0aHRs9Gv0aNR0YHRrdGm0bHRqdGr0ak=</answer>
+			<answer id="2.1.4" type="false">0ZTRq9Gx0aHRqdGu0bw=</answer>
+			<answer id="2.1.5" type="false">0YPRptGs0anRq9Gv0aLRsdGp0bPRodGu0anRqQ==</answer>
+			<questionsize>5</questionsize>
+		</question>
+		<question condition="true" id="2.2" question="0ZTRq9Gh0afRqdGz0aZR0bXRrNGh0aRR0ZHRr9Gy0bLRqdGq0bLRq9Gv0apR0ZXRptGl0abRsdGh0bfRqdGp">
+			<answer id="2.2.1" type="true">V8KjwqbCpF7Cl1/Cm8Khwpg=</answer>
+			<answer id="2.2.2" type="false">V8KmwpxewpdfwpvCocKY</answer>
+			<answer id="2.2.3" type="false">V8KYwpbCo17Cl1/Cm8Khwpg=</answer>
+			<answer id="2.2.4" type="false">V8KmwqTCkl7Cl1/Cm8Khwpg=</answer>
+			<answer id="2.2.5" type="false">V8KmwpzCo17Cl1/Cm8Khwpg=</answer>
+			<questionsize>5</questionsize>
+		</question>
+		<sectionsize>2</sectionsize>
+	</section>
+	<testsize id="testsize">4</testsize>
+	<bodysize id="bodysize">2</bodysize>
+</body>
